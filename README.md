@@ -40,7 +40,7 @@ Follow these steps to get your **PumpFun Sniper Bot** up and running!
     Navigate to the project directory and run the following command:
 
     ```bash
-    cd pumpfun-sniper-bot-v2
+    cd pumpfun-sniper-bot
     cargo build
     ```
 
