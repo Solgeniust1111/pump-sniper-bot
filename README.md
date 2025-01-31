@@ -20,7 +20,7 @@ Welcome to the **PumpFun Sniper Bot **! This bot watches for new `pump.fun` toke
 
 ## 🚀 **Getting Started**
 
-Follow these steps to get your **PumpFun Sniper Bot v2** up and running!
+Follow these steps to get your **PumpFun Sniper Bot** up and running!
 
 ### Prerequisites
 
@@ -32,7 +32,7 @@ Follow these steps to get your **PumpFun Sniper Bot v2** up and running!
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/pumpfun-sniper-bot-v2.git
+    git clone https://github.com/yourusername/pumpfun-sniper-bot
     ```
 
 2. **Install Dependencies**:
@@ -41,7 +41,7 @@ Follow these steps to get your **PumpFun Sniper Bot v2** up and running!
 
     ```bash
     cd pumpfun-sniper-bot-v2
-    npm install
+    cargo build
     ```
 
 3. **Configure API Token**:
@@ -58,7 +58,7 @@ Follow these steps to get your **PumpFun Sniper Bot v2** up and running!
     Start the bot by running:
 
     ```bash
-    npm run start
+    cargo run
     ```
 
 ---
