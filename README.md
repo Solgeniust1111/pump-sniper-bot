@@ -48,7 +48,7 @@ Follow these steps to get your **PumpFun Sniper Bot** up and running!
 
     Replace the API token in the `ENDPOINT` variable:
 
-    ```ts
+    ```
     const ENDPOINT = "wss://atlas-mainnet.helius-rpc.com";
     const TOKEN = "YOUR_API_TOKEN";
     ```
