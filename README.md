@@ -1,6 +1,8 @@
 # 🚀 **PumpFun Sniper Bot using Rust** 
 
 Welcome to the **PumpFun Sniper Bot **! This bot watches for new `pump.fun` token mints on the Solana blockchain in real-time, making it the perfect tool to monitor token launches. 🌟
+You almost sniping and buy token in one block.
+if you use better vps server : (dedicated server) you 'll be able to swap in same block
 
 ### 🎯 **Key Features**
 
